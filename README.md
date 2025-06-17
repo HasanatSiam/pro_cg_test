@@ -1,15 +1,8 @@
 Git Repo:
 	git clone https://github.com/HasanatSiam/pro_cg_test
 	
+creat .env inside flask_cpy and copy the content
 
-Installation Command:
-	pip install git+https://github.com/sibson/redbeat.git
-
-PostgreSQL:
-Local:
-	sudo systemctl start postgresql@16-main
-Tunneling:
-	ssh db-tunnel-infodetics
 
 /Virtual environment
     virtualenv .procg_venv
@@ -17,6 +10,7 @@ Tunneling:
 
 /Installation
     pip install -r requirment.txt
+
 /Run flask application
     flask run
 
