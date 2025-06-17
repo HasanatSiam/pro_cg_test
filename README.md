@@ -1,7 +1,7 @@
 Git Repo:
 	git clone https://github.com/HasanatSiam/pro_cg_test
 	
-creat .env inside flask_cpy and copy the content
+create .env inside flask_cpy and copy the content from whatsapp
 
 
 /Virtual environment
