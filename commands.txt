@@ -12,9 +12,11 @@ Tunneling:
 	ssh db-tunnel-infodetics
 
 /Virtual environment
-    virtualenv venv
-    venv\scripts\activate
+    virtualenv .procg_venv
+    .procg_venv\scripts\activate
 
+/Installation
+    pip install -r requirment.txt
 /Run flask application
     flask run
 
